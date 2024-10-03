@@ -1,5 +1,3 @@
-# eds220-2024-sections
-Work during discussion sections for EDS 220
 # EDS 220 Discussion Sections Repository
 
 This repository hosts all the work completed by Rachel Francesca Swick during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
